@@ -1,2 +1,9 @@
 Screen1 As screen:
+    Fill: =RGBA(152, 208, 70, 1)
+
+    Label1 As label:
+        Text: ="Change 1"
+        X: =125
+        Y: =115
+        ZIndex: =1
 
